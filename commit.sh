@@ -8,4 +8,4 @@ read commit_msgs
 git add .
 git commit -m commit_msg
 git pull --rebase
-git push --set-upstream https://user_name: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@github.com/bioinfosif/job_ML.git main
+git push --set-upstream https://user_name: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@github.com/bioinfosif/job_ML.git main
