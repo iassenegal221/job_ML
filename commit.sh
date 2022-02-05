@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git config --global user.email "ndaom403@gmail.com"
-git config --global user.name "bioinfosif"
 echo " commit message ?"
 read commit_msgs
 
