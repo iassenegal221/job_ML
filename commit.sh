@@ -6,4 +6,4 @@ read commit_msgs
 git add .
 git commit -m commit_msg
 git push https://github.com/bioinfosif/job_ML.git
-#!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
+#!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
